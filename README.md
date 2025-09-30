@@ -1,5 +1,5 @@
 
- : [![MasterHead](./code.jpg) 
+
 - 🔭 I’m currently working on **React**
 
 - 📫 How to reach me **safarmusic17@gmail.com**
